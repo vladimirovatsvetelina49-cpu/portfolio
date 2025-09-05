@@ -5,7 +5,8 @@ Collection of my web development projects with live demos and code
 1.  [Cat Photo App](https://vladimirovatsvetelina49-cpu.github.io/cat-photo-app/)  
 2.  [Cafe Menu](https://vladimirovatsvetelina49-cpu.github.io/cafe-menu/)  
 3. [Colored Markers](https://vladimirovatsvetelina49-cpu.github.io/colored-markers/)  
-4. [Registration Form](https://vladimirovatsvetelina49-cpu.github.io/registration-form/)  
+4. [Registration Form](https://vladimirovatsvetelina49-cpu.github.io/registration-form/)
+5. [Rothko Painting](https://vladimirovatsvetelina49-cpu.github.io/rothko-painting/)
 
 ---
 
