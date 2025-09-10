@@ -9,6 +9,7 @@ Collection of my web development projects with live demos and code
 5. [Rothko Painting](https://vladimirovatsvetelina49-cpu.github.io/rothko-painting/)
 6. [Survey Form](https://vladimirovatsvetelina49-cpu.github.io/survey-form/)
 7. [Counter App](https://vladimirovatsvetelina49-cpu.github.io/counter-app/)
+8. [Photo Gallery](https://vladimirovatsvetelina49-cpu.github.io/photo-gallery/)
 
 ---
 
