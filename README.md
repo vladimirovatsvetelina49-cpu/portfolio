@@ -10,6 +10,7 @@ Collection of my web development projects with live demos and code
 6. [Survey Form](https://vladimirovatsvetelina49-cpu.github.io/survey-form/)
 7. [Counter App](https://vladimirovatsvetelina49-cpu.github.io/counter-app/)
 8. [Photo Gallery](https://vladimirovatsvetelina49-cpu.github.io/photo-gallery/)
+9. [Nav-Bar](https://vladimirovatsvetelina49-cpu.github.io/nav-bar/)  
 
 ---
 
