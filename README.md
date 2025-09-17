@@ -17,7 +17,8 @@ Collection of my web development projects with live demos and code
 ##  What I’m Working On
 - Finishing freeCodeCamp Responsive Web Design certification  
 - Building more projects daily  
-- Moving into JavaScript for interactivity  
+- Moving into JavaScript for interactivity
+- Frond-End Development Carrer Path on Scrimba
 
 ---
 
