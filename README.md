@@ -26,3 +26,4 @@ Collection of my web development projects with live demos and code
 - Make my projects fully responsive (Flexbox & Grid)  
 - Build a personal portfolio website (custom HTML/CSS/JS)  
 - Start applying to freelance/dev opportunities in the next months
+- Complete the Frond-End Development Carrer Path on Scrimba 
